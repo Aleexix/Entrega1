@@ -17,4 +17,5 @@ El archivo kotlin esta dentro de app/src/main/java/co/edu/sena/entrega1java/co/e
 
 Para ejecutar este proyecto, asegúrate de tener instalado Kotlin en tu sistema. Luego, puedes compilar y ejecutar el archivo `Kotlin.tk`
 
+![image](https://github.com/user-attachments/assets/695c313c-caf7-43d7-8306-32cd670d38e4)
 
