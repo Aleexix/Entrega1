@@ -19,3 +19,6 @@ Para ejecutar este proyecto, asegúrate de tener instalado Kotlin en tu sistema.
 
 ![image](https://github.com/user-attachments/assets/695c313c-caf7-43d7-8306-32cd670d38e4)
 
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
