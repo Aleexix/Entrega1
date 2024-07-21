@@ -21,4 +21,4 @@ Para ejecutar este proyecto, asegúrate de tener instalado Kotlin en tu sistema.
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/Aleexix/Entrega1/blob/master/LICENSE) para más detalles.
